@@ -1,6 +1,3 @@
-/**
- * VIDEO NO. 256 QUERY PARA OBTENER CADA CLIENTE2
- */
 
 //Creamos IFI para que metodos y variables sean solo locales
 (function(){

@@ -1,7 +1,3 @@
-/**
- * VIDEO NO. 243 PRIMEROS PASOS PARA AGREGAR NUEVOS CLIENTES
- */
-
 //Creamos IFI para mantener metodos y variables de manera local
 (function(){
     //Variable que maneja la DB

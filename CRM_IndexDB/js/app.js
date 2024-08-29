@@ -1,7 +1,3 @@
-/**
- * VIDEO NO. 242 CREANDO LA BASE DE DATOS
- */
-
 //Creamos un IFI para que las variables y metodos solo sean locales
 (function(){
     //Variable que va a manejar todos lo respecto a la DB
